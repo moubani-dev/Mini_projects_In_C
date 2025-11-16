@@ -17,3 +17,6 @@
 
 ### project 6: Daily Expense Tracker
 <img width="499" height="420" alt="image" src="https://github.com/user-attachments/assets/9cc8888d-d32d-4c1b-89de-3969eebe46bf" />
+
+### project 6: Simple Contact Book
+<img width="390" height="430" alt="image" src="https://github.com/user-attachments/assets/a32244c9-981e-416d-b53e-8bb3404e706f" />
