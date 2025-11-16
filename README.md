@@ -25,7 +25,7 @@
 <img width="471" height="603" alt="image" src="https://github.com/user-attachments/assets/6daa555f-00d6-416d-8ef0-49ebfee66591" />
 <img width="484" height="609" alt="image" src="https://github.com/user-attachments/assets/2d3bf5db-52a7-4f56-8544-fe6b48757157" />
 
-### Project 7: 
+### Project 7: Library Management System
 <img width="393" height="465" alt="image" src="https://github.com/user-attachments/assets/58e074eb-2613-46ac-8ae9-13fb77135907" />
 
 
