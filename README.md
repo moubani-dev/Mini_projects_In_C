@@ -14,3 +14,6 @@
 
 ### project 5: Temperature Convertor
 <img width="303" height="228" alt="image" src="https://github.com/user-attachments/assets/ea5e60f4-8690-4414-8257-ffc2b7f29a51" />
+
+### project 6: Daily Expense Tracker
+<img width="499" height="420" alt="image" src="https://github.com/user-attachments/assets/9cc8888d-d32d-4c1b-89de-3969eebe46bf" />
