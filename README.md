@@ -20,3 +20,8 @@
 
 ### project 6: Simple Contact Book
 <img width="390" height="430" alt="image" src="https://github.com/user-attachments/assets/a32244c9-981e-416d-b53e-8bb3404e706f" />
+
+### Project 7: Tic Tac Toe Game
+<img width="450" height="479" alt="image" src="https://github.com/user-attachments/assets/690f100f-57d1-490f-b753-681ab8420a06" />
+<img width="484" height="609" alt="image" src="https://github.com/user-attachments/assets/2d3bf5db-52a7-4f56-8544-fe6b48757157" />
+
