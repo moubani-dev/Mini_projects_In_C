@@ -18,20 +18,20 @@
 ### project 6: Daily Expense Tracker
 <img width="499" height="420" alt="image" src="https://github.com/user-attachments/assets/9cc8888d-d32d-4c1b-89de-3969eebe46bf" />
 
-### project 6: Simple Contact Book
+### project 7: Simple Contact Book
 <img width="390" height="430" alt="image" src="https://github.com/user-attachments/assets/a32244c9-981e-416d-b53e-8bb3404e706f" />
 
-### Project 7: Tic Tac Toe Game
+### Project 8: Tic Tac Toe Game
 <img width="471" height="603" alt="image" src="https://github.com/user-attachments/assets/6daa555f-00d6-416d-8ef0-49ebfee66591" />
 <img width="484" height="609" alt="image" src="https://github.com/user-attachments/assets/2d3bf5db-52a7-4f56-8544-fe6b48757157" />
 
-### Project 8: Library Management System
+### Project 9: Library Management System
 <img width="393" height="465" alt="image" src="https://github.com/user-attachments/assets/58e074eb-2613-46ac-8ae9-13fb77135907" />
 
-### Project 9: Student Grade Book Ranking
+### Project 10: Student Grade Book Ranking
 <img width="428" height="486" alt="image" src="https://github.com/user-attachments/assets/b91b482f-70bc-4d55-9756-8b083ec85201" />
 
-### Project 10: To Do App
+### Project 11: To Do App
 <img width="408" height="447" alt="image" src="https://github.com/user-attachments/assets/f1f93992-8bee-45b0-ab67-ff49d766317c" />
 
 
