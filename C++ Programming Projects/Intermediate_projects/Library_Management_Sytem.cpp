@@ -20,7 +20,7 @@ using namespace std;
  *  - Save & load books from a text file (library.txt)
  *
  * Teaching Focus:
- *  - Classes & objects
+ *  - Classes & objects 
  *  - std::vector to store objects
  *  - Basic file I/O (ifstream/ofstream)
  */
